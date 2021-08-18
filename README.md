@@ -13,6 +13,11 @@ Hey there 👋
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAAVOeOgl2Yx2fI9c0VpwdQ)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-vial-230763138/)
 
+### 📌 Pinned Repositories
+<a href="https://github.com/JeromevDEV/my-portfolio">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JeromevDEV&repo=my-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 ## buy-me-a-coffee
 Liked some of my work? Buy me a coffee (or a pizza) as it help me to keep creating new stuff !
 
