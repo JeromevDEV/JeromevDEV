@@ -17,6 +17,9 @@ Hey there 👋
 <a href="https://github.com/JeromevDEV/my-portfolio">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JeromevDEV&repo=my-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+<a href="https://github.com/JeromevDEV/react-weather-app">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JeromevDEV&repo=react-weather-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 ## ☕ buy-me-a-coffee
 Liked some of my work? Buy me a coffee (or a pizza) as it help me to keep creating new stuff !
